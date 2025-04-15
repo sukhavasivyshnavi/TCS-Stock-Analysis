@@ -55,7 +55,6 @@ Visualizations illustrating price movement, volume, and stock return fluctuation
 
 ## Author
 
-**S. Vyshnavi**  
-Final Year BTech (Computer Science and Engineering)  
+**S. Vyshnavi**   
 Email: sukhavasivyshnavi17@gmail.com  
  
