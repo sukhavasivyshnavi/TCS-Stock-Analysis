@@ -32,7 +32,7 @@ Focused snapshot of core metrics such as daily return, cumulative return, and tr
 
 Visualizations illustrating price movement, volume, and stock return fluctuations over time.
 
-![Trends Section](screenshots/trends_section.png)
+![Trends Section](Screenshots/trends_section.png)
 
 ---
 
