@@ -20,7 +20,7 @@ This Power BI project presents an in-depth analysis of Tata Consultancy Services
 
 A comprehensive view of the entire report layout, including KPIs, trends, and return analysis.
 
-![Dashboard Overview](screenshots/dashboard_section.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png)
 
 ### KPI Section
 
