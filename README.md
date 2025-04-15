@@ -26,13 +26,13 @@ A comprehensive view of the entire report layout, including KPIs, trends, and re
 
 Focused snapshot of core metrics such as daily return, cumulative return, and trading days.
 
-![KPI Section](Screenshots/kpi_section.png)
+[KPI Section](Screenshots/kpi_section.png)
 
 ### Trends Section
 
 Visualizations illustrating price movement, volume, and stock return fluctuations over time.
 
-![Trends Section](Screenshots/trends_section.png)
+[Trends Section](Screenshots/trends_section.png)
 
 ---
 
