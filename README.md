@@ -26,7 +26,7 @@ A comprehensive view of the entire report layout, including KPIs, trends, and re
 
 Focused snapshot of core metrics such as daily return, cumulative return, and trading days.
 
-![KPI Section](screenshots/kpi_section.png)
+![KPI Section](Screenshots/kpi_section.png)
 
 ### Trends Section
 
